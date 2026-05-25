@@ -1,14 +1,18 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Divakar" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=34&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Divakar" />
 </h1>
 
-<h3 align="center">Software Developer</h3>
+<h3 align="center">🚀 Aspiring Software Developer | Java Enthusiast</h3>
+
+<p align="center">
+  Passionate about building modern applications, solving problems, and exploring backend technologies.
+</p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 💻 Becoming a Software Developer with strong interest in Java
+- 💻 Aspiring Software Developer with strong interest in Java
 - 📚 Currently learning **DSA** and **Full Stack Development**
 - 🌐 Interested in **Web Development**, **Backend Development**, and **UI Designing**
 - ⚡ Passionate about building practical and scalable applications
@@ -90,6 +94,11 @@ React
 
 <p align="center">
 
+<a href="https://en.wikipedia.org/wiki/Java_(programming_language)">
+  <img src="https://skillicons.dev/icons?i=java" />
+</a>
+&nbsp;&nbsp;&nbsp;
+
 <a href="https://en.wikipedia.org/wiki/Node.js">
   <img src="https://skillicons.dev/icons?i=nodejs" />
 </a>
@@ -97,6 +106,7 @@ React
 </p>
 
 <p align="center">
+Java &nbsp;&nbsp;&nbsp;&nbsp;
 Node.js
 </p>
 
@@ -143,6 +153,16 @@ MongoDB
 </a>
 &nbsp;&nbsp;&nbsp;
 
+<a href="https://en.wikipedia.org/wiki/Canva">
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="48"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://en.wikipedia.org/wiki/Adobe_Illustrator">
+  <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="48"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
 <a href="https://en.wikipedia.org/wiki/Visual_Studio_Code">
   <img src="https://skillicons.dev/icons?i=vscode" />
 </a>
@@ -153,6 +173,8 @@ MongoDB
 Git &nbsp;&nbsp;&nbsp;&nbsp;
 GitHub &nbsp;&nbsp;&nbsp;&nbsp;
 Figma &nbsp;&nbsp;&nbsp;&nbsp;
+Canva &nbsp;&nbsp;&nbsp;&nbsp;
+Illustrator &nbsp;&nbsp;&nbsp;&nbsp;
 VS Code
 </p>
 
@@ -169,9 +191,11 @@ Data Structures & Algorithms • Full Stack Development • Backend Fundamentals
 # 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=divakarnagaraj21&show_icons=true&theme=tokyonight" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divakarnagaraj21&layout=compact&theme=tokyonight" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=divakarnagaraj21&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divakarnagaraj21&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+
 </p>
 
 ---
@@ -179,7 +203,9 @@ Data Structures & Algorithms • Full Stack Development • Backend Fundamentals
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=divakarnagaraj21&theme=tokyonight" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divakarnagaraj21&theme=tokyonight"/>
+
 </p>
 
 ---
