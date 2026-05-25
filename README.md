@@ -26,23 +26,21 @@
 ## 💻 Languages
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=java" width="55"/>
+  <img src="https://skillicons.dev/icons?i=c" width="55"/>
+  <img src="https://skillicons.dev/icons?i=cpp" width="55"/>
+  <img src="https://skillicons.dev/icons?i=python" width="55"/>
+</p>
 
-<a href="https://en.wikipedia.org/wiki/Java_(programming_language)">
-  <img src="https://img.shields.io/badge/Java-Wikipedia-blue?style=for-the-badge"/>
-</a>
+<p align="center">
+  Java | C | C++ | Python
+</p>
 
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-  <img src="https://img.shields.io/badge/C-Wikipedia-blue?style=for-the-badge"/>
-</a>
-
-<a href="https://en.wikipedia.org/wiki/C%2B%2B">
-  <img src="https://img.shields.io/badge/C++-Wikipedia-blue?style=for-the-badge"/>
-</a>
-
-<a href="https://en.wikipedia.org/wiki/Python_(programming_language)">
-  <img src="https://img.shields.io/badge/Python-Wikipedia-blue?style=for-the-badge"/>
-</a>
-
+<p align="center">
+  <a href="https://en.wikipedia.org/wiki/Java_(programming_language)">Java</a> |
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">C</a> |
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B">C++</a> |
+  <a href="https://en.wikipedia.org/wiki/Python_(programming_language)">Python</a>
 </p>
 
 ---
@@ -50,23 +48,21 @@
 ## 🎨 Frontend
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=html" width="55"/>
+  <img src="https://skillicons.dev/icons?i=css" width="55"/>
+  <img src="https://skillicons.dev/icons?i=js" width="55"/>
+  <img src="https://skillicons.dev/icons?i=react" width="55"/>
+</p>
 
-<a href="https://en.wikipedia.org/wiki/HTML">
-  <img src="https://img.shields.io/badge/HTML-Wikipedia-orange?style=for-the-badge"/>
-</a>
+<p align="center">
+  HTML | CSS | JavaScript | React
+</p>
 
-<a href="https://en.wikipedia.org/wiki/CSS">
-  <img src="https://img.shields.io/badge/CSS-Wikipedia-blue?style=for-the-badge"/>
-</a>
-
-<a href="https://en.wikipedia.org/wiki/JavaScript">
-  <img src="https://img.shields.io/badge/JavaScript-Wikipedia-yellow?style=for-the-badge"/>
-</a>
-
-<a href="https://en.wikipedia.org/wiki/React_(software)">
-  <img src="https://img.shields.io/badge/React-Wikipedia-61dafb?style=for-the-badge"/>
-</a>
-
+<p align="center">
+  <a href="https://en.wikipedia.org/wiki/HTML">HTML</a> |
+  <a href="https://en.wikipedia.org/wiki/CSS">CSS</a> |
+  <a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a> |
+  <a href="https://en.wikipedia.org/wiki/React_(software)">React</a>
 </p>
 
 ---
@@ -74,15 +70,17 @@
 ## ⚙️ Backend
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=java" width="55"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="55"/>
+</p>
 
-<a href="https://en.wikipedia.org/wiki/Java_(programming_language)">
-  <img src="https://img.shields.io/badge/Java-Wikipedia-blue?style=for-the-badge"/>
-</a>
+<p align="center">
+  Java | Node.js
+</p>
 
-<a href="https://en.wikipedia.org/wiki/Node.js">
-  <img src="https://img.shields.io/badge/Node.js-Wikipedia-green?style=for-the-badge"/>
-</a>
-
+<p align="center">
+  <a href="https://en.wikipedia.org/wiki/Java_(programming_language)">Java</a> |
+  <a href="https://en.wikipedia.org/wiki/Node.js">Node.js</a>
 </p>
 
 ---
@@ -90,15 +88,17 @@
 ## 🗄️ Databases
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" width="55"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="55"/>
+</p>
 
-<a href="https://en.wikipedia.org/wiki/MySQL">
-  <img src="https://img.shields.io/badge/MySQL-Wikipedia-blue?style=for-the-badge"/>
-</a>
+<p align="center">
+  MySQL | MongoDB
+</p>
 
-<a href="https://en.wikipedia.org/wiki/MongoDB">
-  <img src="https://img.shields.io/badge/MongoDB-Wikipedia-green?style=for-the-badge"/>
-</a>
-
+<p align="center">
+  <a href="https://en.wikipedia.org/wiki/MySQL">MySQL</a> |
+  <a href="https://en.wikipedia.org/wiki/MongoDB">MongoDB</a>
 </p>
 
 ---
@@ -106,23 +106,21 @@
 ## 🛠️ Tools & Designing
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=git" width="55"/>
+  <img src="https://skillicons.dev/icons?i=github" width="55"/>
+  <img src="https://skillicons.dev/icons?i=figma" width="55"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="55"/>
+</p>
 
-<a href="https://en.wikipedia.org/wiki/Git">
-  <img src="https://img.shields.io/badge/Git-Wikipedia-orange?style=for-the-badge"/>
-</a>
+<p align="center">
+  Git | GitHub | Figma | VS Code
+</p>
 
-<a href="https://en.wikipedia.org/wiki/GitHub">
-  <img src="https://img.shields.io/badge/GitHub-Wikipedia-black?style=for-the-badge"/>
-</a>
-
-<a href="https://en.wikipedia.org/wiki/Figma_(software)">
-  <img src="https://img.shields.io/badge/Figma-Wikipedia-purple?style=for-the-badge"/>
-</a>
-
-<a href="https://en.wikipedia.org/wiki/Visual_Studio_Code">
-  <img src="https://img.shields.io/badge/VS%20Code-Wikipedia-blue?style=for-the-badge"/>
-</a>
-
+<p align="center">
+  <a href="https://en.wikipedia.org/wiki/Git">Git</a> |
+  <a href="https://en.wikipedia.org/wiki/GitHub">GitHub</a> |
+  <a href="https://en.wikipedia.org/wiki/Figma_(software)">Figma</a> |
+  <a href="https://en.wikipedia.org/wiki/Visual_Studio_Code">VS Code</a>
 </p>
 
 ---
@@ -148,13 +146,22 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/divakarnagaraj">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="60"/>
 </a>
 
 <a href="https://leetcode.com/u/divakar_21/">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge"/>
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="60"/>
 </a>
 
+</p>
+
+<p align="center">
+  LinkedIn | LeetCode
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/divakarnagaraj">LinkedIn</a> |
+  <a href="https://leetcode.com/u/divakar_21/">LeetCode</a>
 </p>
 
 ---
