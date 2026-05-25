@@ -12,11 +12,11 @@
 
 # 🚀 About Me
 
-- 💻 Aspiring Software Developer with strong interest in Java
-- 📚 Currently learning **DSA** and **Full Stack Development**
-- 🌐 Interested in **Web Development**, **Backend Development**, and **UI Designing**
-- ⚡ Passionate about building practical and scalable applications
-- 🎯 Exploring modern development tools and technologies
+- 💻 Aspiring Software Developer with strong interest in Java  
+- 📚 Currently learning **DSA** and **Full Stack Development**  
+- 🌐 Interested in **Web Development**, **Backend Development**, and **UI Designing**  
+- ⚡ Passionate about building practical and scalable applications  
+- 🎯 Exploring modern development tools and technologies  
 
 ---
 
@@ -25,33 +25,14 @@
 ## 💻 Languages
 
 <p align="center">
-
-<a href="https://en.wikipedia.org/wiki/Java_(programming_language)">
-  <img src="https://skillicons.dev/icons?i=java" />
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-  <img src="https://skillicons.dev/icons?i=c" />
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://en.wikipedia.org/wiki/C%2B%2B">
-  <img src="https://skillicons.dev/icons?i=cpp" />
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://en.wikipedia.org/wiki/Python_(programming_language)">
-  <img src="https://skillicons.dev/icons?i=python" />
-</a>
-
+  <img src="https://skillicons.dev/icons?i=java" width="55"/>
+  <img src="https://skillicons.dev/icons?i=c" width="55"/>
+  <img src="https://skillicons.dev/icons?i=cpp" width="55"/>
+  <img src="https://skillicons.dev/icons?i=python" width="55"/>
 </p>
 
 <p align="center">
-Java &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-C &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-C++ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Python
+  Java &nbsp;&nbsp;&nbsp;&nbsp; C &nbsp;&nbsp;&nbsp;&nbsp; C++ &nbsp;&nbsp;&nbsp;&nbsp; Python
 </p>
 
 ---
@@ -59,33 +40,14 @@ Python
 ## 🎨 Frontend
 
 <p align="center">
-
-<a href="https://en.wikipedia.org/wiki/HTML">
-  <img src="https://skillicons.dev/icons?i=html" />
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://en.wikipedia.org/wiki/CSS">
-  <img src="https://skillicons.dev/icons?i=css" />
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://en.wikipedia.org/wiki/JavaScript">
-  <img src="https://skillicons.dev/icons?i=js" />
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://en.wikipedia.org/wiki/React_(software)">
-  <img src="https://skillicons.dev/icons?i=react" />
-</a>
-
+  <img src="https://skillicons.dev/icons?i=html" width="55"/>
+  <img src="https://skillicons.dev/icons?i=css" width="55"/>
+  <img src="https://skillicons.dev/icons?i=js" width="55"/>
+  <img src="https://skillicons.dev/icons?i=react" width="55"/>
 </p>
 
 <p align="center">
-HTML &nbsp;&nbsp;&nbsp;&nbsp;
-CSS &nbsp;&nbsp;&nbsp;&nbsp;
-JavaScript &nbsp;&nbsp;&nbsp;&nbsp;
-React
+  HTML &nbsp;&nbsp;&nbsp;&nbsp; CSS &nbsp;&nbsp;&nbsp;&nbsp; JavaScript &nbsp;&nbsp;&nbsp;&nbsp; React
 </p>
 
 ---
@@ -93,21 +55,12 @@ React
 ## ⚙️ Backend
 
 <p align="center">
-
-<a href="https://en.wikipedia.org/wiki/Java_(programming_language)">
-  <img src="https://skillicons.dev/icons?i=java" />
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://en.wikipedia.org/wiki/Node.js">
-  <img src="https://skillicons.dev/icons?i=nodejs" />
-</a>
-
+  <img src="https://skillicons.dev/icons?i=java" width="55"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="55"/>
 </p>
 
 <p align="center">
-Java &nbsp;&nbsp;&nbsp;&nbsp;
-Node.js
+  Java &nbsp;&nbsp;&nbsp;&nbsp; Node.js
 </p>
 
 ---
@@ -115,67 +68,27 @@ Node.js
 ## 🗄️ Databases
 
 <p align="center">
-
-<a href="https://en.wikipedia.org/wiki/MySQL">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://en.wikipedia.org/wiki/MongoDB">
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-</a>
-
+  <img src="https://skillicons.dev/icons?i=mysql" width="55"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="55"/>
 </p>
 
 <p align="center">
-MySQL &nbsp;&nbsp;&nbsp;&nbsp;
-MongoDB
+  MySQL &nbsp;&nbsp;&nbsp;&nbsp; MongoDB
 </p>
 
 ---
 
-## 🛠️ Tools & Designing
+## 🛠️ Tools
 
 <p align="center">
-
-<a href="https://en.wikipedia.org/wiki/Git">
-  <img src="https://skillicons.dev/icons?i=git" />
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://en.wikipedia.org/wiki/GitHub">
-  <img src="https://skillicons.dev/icons?i=github" />
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://en.wikipedia.org/wiki/Figma_(software)">
-  <img src="https://skillicons.dev/icons?i=figma" />
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://en.wikipedia.org/wiki/Canva">
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="48"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://en.wikipedia.org/wiki/Adobe_Illustrator">
-  <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="48"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://en.wikipedia.org/wiki/Visual_Studio_Code">
-  <img src="https://skillicons.dev/icons?i=vscode" />
-</a>
-
+  <img src="https://skillicons.dev/icons?i=git" width="55"/>
+  <img src="https://skillicons.dev/icons?i=github" width="55"/>
+  <img src="https://skillicons.dev/icons?i=figma" width="55"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="55"/>
 </p>
 
 <p align="center">
-Git &nbsp;&nbsp;&nbsp;&nbsp;
-GitHub &nbsp;&nbsp;&nbsp;&nbsp;
-Figma &nbsp;&nbsp;&nbsp;&nbsp;
-Canva &nbsp;&nbsp;&nbsp;&nbsp;
-Illustrator &nbsp;&nbsp;&nbsp;&nbsp;
-VS Code
+  Git &nbsp;&nbsp;&nbsp;&nbsp; GitHub &nbsp;&nbsp;&nbsp;&nbsp; Figma &nbsp;&nbsp;&nbsp;&nbsp; VS Code
 </p>
 
 ---
@@ -183,19 +96,7 @@ VS Code
 # 📖 Currently Learning
 
 <p align="center">
-Data Structures & Algorithms • Full Stack Development • Backend Fundamentals
-</p>
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=divakarnagaraj21&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divakarnagaraj21&layout=compact&theme=tokyonight&cache_seconds=1800"/>
-
+  Data Structures & Algorithms • Full Stack Development • Backend Fundamentals
 </p>
 
 ---
@@ -203,9 +104,7 @@ Data Structures & Algorithms • Full Stack Development • Backend Fundamentals
 # 🔥 GitHub Streak
 
 <p align="center">
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=divakarnagaraj21&theme=tokyonight"/>
-
 </p>
 
 ---
@@ -213,21 +112,17 @@ Data Structures & Algorithms • Full Stack Development • Backend Fundamentals
 # 🌐 Connect With Me
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/divakarnagaraj">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="60"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/divakarnagaraj">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://leetcode.com/u/divakar_21/">
-  <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="48"/>
-</a>
-
+  <a href="https://leetcode.com/u/divakar_21/">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="60"/>
+  </a>
 </p>
 
 <p align="center">
-LinkedIn &nbsp;&nbsp;&nbsp;&nbsp;
-LeetCode
+  LinkedIn &nbsp;&nbsp;&nbsp;&nbsp; LeetCode
 </p>
 
 ---
