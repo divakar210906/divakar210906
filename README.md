@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Divakar</h1>
+
 <h3 align="center">Aspiring Software Developer | Java Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Java+Developer;DSA+Enthusiast;Full+Stack+Learner;Backend+Focused+Developer;Building+Projects+and+Improving+Everyday" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+Developer;DSA+Enthusiast;Full+Stack+Learner;Backend+Focused+Developer;Building+Projects+and+Improving+Everyday" />
 </p>
 
 ---
@@ -17,36 +18,149 @@
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,python" />
+## 💻 Languages
+
+<p align="left">
+
+<a href="https://en.wikipedia.org/wiki/Java_(programming_language)">
+  <img src="https://skillicons.dev/icons?i=java" />
+</a>
+&nbsp;&nbsp;
+
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+  <img src="https://skillicons.dev/icons?i=c" />
+</a>
+&nbsp;&nbsp;
+
+<a href="https://en.wikipedia.org/wiki/C%2B%2B">
+  <img src="https://skillicons.dev/icons?i=cpp" />
+</a>
+&nbsp;&nbsp;
+
+<a href="https://en.wikipedia.org/wiki/Python_(programming_language)">
+  <img src="https://skillicons.dev/icons?i=python" />
+</a>
+
 </p>
 
-### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
-
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs" />
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### 🛠️ Tools & Designing
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
+Java &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+C &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+C++ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Python
 </p>
 
 ---
 
-## 📖 Currently Learning
+## 🎨 Frontend
+
+<p align="left">
+
+<a href="https://en.wikipedia.org/wiki/HTML">
+  <img src="https://skillicons.dev/icons?i=html" />
+</a>
+&nbsp;&nbsp;
+
+<a href="https://en.wikipedia.org/wiki/CSS">
+  <img src="https://skillicons.dev/icons?i=css" />
+</a>
+&nbsp;&nbsp;
+
+<a href="https://en.wikipedia.org/wiki/JavaScript">
+  <img src="https://skillicons.dev/icons?i=js" />
+</a>
+&nbsp;&nbsp;
+
+<a href="https://en.wikipedia.org/wiki/React_(software)">
+  <img src="https://skillicons.dev/icons?i=react" />
+</a>
+
+</p>
+
+<p>
+HTML &nbsp;&nbsp;&nbsp;&nbsp;
+CSS &nbsp;&nbsp;&nbsp;&nbsp;
+JavaScript &nbsp;&nbsp;&nbsp;&nbsp;
+React
+</p>
+
+---
+
+## ⚙️ Backend
+
+<p align="left">
+
+<a href="https://en.wikipedia.org/wiki/Node.js">
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+</a>
+
+</p>
+
+<p>
+Node.js
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p align="left">
+
+<a href="https://en.wikipedia.org/wiki/MySQL">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</a>
+&nbsp;&nbsp;
+
+<a href="https://en.wikipedia.org/wiki/MongoDB">
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</a>
+
+</p>
+
+<p>
+MySQL &nbsp;&nbsp;&nbsp;&nbsp;
+MongoDB
+</p>
+
+---
+
+## 🛠️ Tools & Designing
+
+<p align="left">
+
+<a href="https://en.wikipedia.org/wiki/Git">
+  <img src="https://skillicons.dev/icons?i=git" />
+</a>
+&nbsp;&nbsp;
+
+<a href="https://en.wikipedia.org/wiki/GitHub">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+&nbsp;&nbsp;
+
+<a href="https://en.wikipedia.org/wiki/Figma_(software)">
+  <img src="https://skillicons.dev/icons?i=figma" />
+</a>
+&nbsp;&nbsp;
+
+<a href="https://en.wikipedia.org/wiki/Visual_Studio_Code">
+  <img src="https://skillicons.dev/icons?i=vscode" />
+</a>
+
+</p>
+
+<p>
+Git &nbsp;&nbsp;&nbsp;&nbsp;
+GitHub &nbsp;&nbsp;&nbsp;&nbsp;
+Figma &nbsp;&nbsp;&nbsp;&nbsp;
+VS Code
+</p>
+
+---
+
+# 📖 Currently Learning
 
 - Data Structures & Algorithms
 - Full Stack Development
@@ -55,7 +169,7 @@
 
 ---
 
-## 📈 GitHub Stats
+# 📈 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=divakarnagaraj21&show_icons=true&theme=tokyonight" />
@@ -65,7 +179,7 @@
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=divakarnagaraj21&theme=tokyonight" />
@@ -73,7 +187,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
@@ -81,16 +195,24 @@
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
+
 <a href="https://www.linkedin.com/in/divakarnagaraj">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
+&nbsp;&nbsp;
 
 <a href="https://leetcode.com/u/divakar_21/">
   <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="48"/>
 </a>
+
+</p>
+
+<p>
+LinkedIn &nbsp;&nbsp;&nbsp;&nbsp;
+LeetCode
 </p>
 
 ---
