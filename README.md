@@ -180,7 +180,7 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divakar2109061&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divakar210906&theme=tokyonight"/>
 </p>
 
 ---
